@@ -1,0 +1,5 @@
+{
+	"name": "getLocalIp",
+	"main": "./getLocalIp.mjs",
+	"types": "module"
+}

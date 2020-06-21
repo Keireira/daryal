@@ -1,0 +1,5 @@
+{
+	"name": "argvParser",
+	"main": "./argvParser.mjs",
+	"types": "module"
+}

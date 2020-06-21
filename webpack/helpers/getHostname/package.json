@@ -1,0 +1,5 @@
+{
+	"name": "getHostname",
+	"main": "./getHostname.mjs",
+	"types": "module"
+}

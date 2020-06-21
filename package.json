@@ -1,0 +1,16 @@
+{
+  "name": "cyan",
+  "version": "0.0.1",
+  "description": "Easy scaffolding",
+  "main": "./scaffold/index.mjs",
+  "author": "Alena Dzhukich",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --experimental-modules --es-module-specifier-resolution=node ./scaffold",
+    "scaffold": "node --experimental-modules --es-module-specifier-resolution=node --no-warnings ./scaffold"
+  },
+  "devDependencies": {
+    "inquirer": "^7.2.0",
+    "json-beautify": "^1.1.1"
+  }
+}
